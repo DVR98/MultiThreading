@@ -1,0 +1,16 @@
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\MultiThreading.exe
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\MultiThreading.deps.json
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\MultiThreading.runtimeconfig.json
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\MultiThreading.runtimeconfig.dev.json
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\MultiThreading.dll
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\ref\MultiThreading.dll
+D:\College\MCSD\C#\MultiThreading\bin\Debug\net5.0\MultiThreading.pdb
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.csprojAssemblyReference.cache
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.AssemblyInfoInputs.cache
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.AssemblyInfo.cs
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.csproj.CoreCompileInputs.cache
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.dll
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\ref\MultiThreading.dll
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.pdb
+D:\College\MCSD\C#\MultiThreading\obj\Debug\net5.0\MultiThreading.genruntimeconfig.cache
